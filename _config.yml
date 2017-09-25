@@ -1,14 +1,14 @@
 # Site settings
-title: blog
+title:
 header-img: img/home-bgg.jpg
 email: krishnaqmar@gmail.com
 copyright_name: redfruit
-description: "A record of all my projects and tinkering with interesting code"
+description:
 baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: mhfruit
 github_username:  redfruitt
-facebook_username:  Krishna Kumar
+facebook_username:  RedFruitT
 email_username:  krishnaqmar@gmail.com
 
 # Google Analytics
